@@ -1,0 +1,18 @@
+# RCE --> Remote Code Execution
+
+~imagemagick-rce ~
+https://blog.sucuri.net/2016/05/imagemagick-remote-command-execution-vulnerability.html
+https://www.softwaresecured.com/imagemagick-rce-take-2/
+https://medium.com/@NumbShiva/imagemagic-rce-f364a9f50a14
+https://voidsec.com/imagetragick-poc/
+https://strynx.org/imagemagick-rce/
+https://mukarramkhalid.com/imagemagick-imagetragick-exploit/
+
+~ Video POC of Imagemagick RCE ~
+https://www.youtube.com/watch?v=sKI3PnOGMN8
+https://www.youtube.com/watch?v=yA8LzYQ3DMc
+https://www.youtube.com/watch?v=vY17AUrTCto
+
+~ Imagemagick Reports ~
+https://4lemon.ru/2017-01-17_facebook_imagetragick_remote_code_execution.html
+https://hackerone.com/reports/135072
