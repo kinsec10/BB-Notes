@@ -1,0 +1,45 @@
+XSS
+
+~Blind XSS~
+https://www.acunetix.com/blog/articles/blind-xss/
+https://brutelogic.com.br/blog/blind-xss-code/
+
+~ Tool ~
+https://xsshunter.com/
+https://github.com/SpiderMate/B-XSSRF
+
+~ Payloads ~
+https://ardern.io/2019/06/20/payload-bxss/
+
+~ Burp Extension For B-XSS ~
+https://github.com/wish-i-was/femida
+https://github.com/BitTheByte/BitBlinder
+https://github.com/psych0tr1a/elScripto
+https://github.com/mystech7/Burp-Hunter
+
+~ Writeups ~
+https://medium.com/bugbountywriteup/blind-xss-for-beginners-c88e48083071
+https://medium.com/@dirtycoder0124/blind-xss-a-new-way-856053d51f75
+https://blog.sean-wright.com/blind-xss/
+https://enciphers.com/finding-and-exploiting-blind-xss/
+https://www.secjuice.com/blind-cross-site-scripting-xss/
+https://medium.com/bugbountywriteup/bug-bounty-mail-ru-234fa6f5a5a
+https://appio.dev/vulns/googleplex-com-blind-xss/
+https://evanricafort.blogspot.com/2018/08/blind-xss-in-chrome-experiments-google.html
+https://sites.google.com/securifyinc.com/vrp-writeups
+https://medium.com/@dirtycoder0124/blind-xss-a-mind-game-to-win-the-battle-4fc67c524678?
+http://guptashubham.com/how-i-got-22000-worth-ethereum/
+https://www.ansariosama.com/2017/11/how-i-pwned-company-using-idor-blind-xss.html
+
+
+~ Video ~
+https://www.youtube.com/watch?v=60lWtlWTa3I
+https://www.youtube.com/watch?v=H_0NTuJSyDM
+https://www.youtube.com/watch?v=8IHp2bOciuw
+https://www.youtube.com/watch?v=hdpXTvk3GAc
+https://www.youtube.com/watch?v=8mO00rEdCrQ
+https://www.youtube.com/watch?v=LV8IU3r1hr0
+
+~ Reports ~
+https://hackerone.com/reports/251224
+https://hackerone.com/reports/314126
